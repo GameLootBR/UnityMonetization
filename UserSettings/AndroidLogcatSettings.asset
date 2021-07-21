@@ -1,0 +1,155 @@
+{
+    "m_SelectedDeviceId": "75fc6ade0506",
+    "m_SelectedPackage": {
+        "deviceId": "75fc6ade0506",
+        "name": "com.gameloot.monetization.amazon",
+        "processId": 13216,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 30804,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 32184,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 3487,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 4795,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 5482,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 6641,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 7751,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 8288,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 8970,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 9801,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 10495,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 10934,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 11499,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 12102,
+            "exited": false
+        },
+        {
+            "deviceId": "75fc6ade0506",
+            "name": "com.gameloot.monetization.amazon",
+            "processId": 13216,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
